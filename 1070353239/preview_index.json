@@ -1,7 +1,7 @@
 {
   "qq_number": "2733481869",
   "group_number": "1070353239",
-  "updated_at": "2026-11-18T16:22:43+00:00",
+  "updated_at": "2026-11-18T16:22:59+00:00",
   "skins": [
     {
       "name": "郁の贴纸年36",
@@ -152,17 +152,17 @@
     },
     {
       "name": "郁の贴纸年45",
-      "file": "郁_贴纸年45.bdi",
-      "thumb": "郁_贴纸年45.bdi_py_26_light_thumb.png",
-      "full": "郁_贴纸年45.bdi_py_26_light_thumb.png",
-      "file_id": "asset_5bedcf6e0526460ab618db33504218fb"
-    },
-    {
-      "name": "郁の贴纸年45",
       "file": "郁_贴纸年45.bds",
       "thumb": "郁_贴纸年45.bds_py_26_light_thumb.png",
       "full": "郁_贴纸年45.bds_py_26_light_thumb.png",
       "file_id": "51407673"
+    },
+    {
+      "name": "郁の贴纸年45",
+      "file": "郁_贴纸年45.bdi",
+      "thumb": "郁_贴纸年45.bdi_py_26_light_thumb.png",
+      "full": "郁_贴纸年45.bdi_py_26_light_thumb.png",
+      "file_id": "asset_5bedcf6e0526460ab618db33504218fb"
     }
   ]
 }
