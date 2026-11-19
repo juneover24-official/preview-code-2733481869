@@ -1,7 +1,7 @@
 {
   "qq_number": "2733481869",
   "group_number": "1070353239",
-  "updated_at": "2026-11-19T02:54:43+00:00",
+  "updated_at": "2026-11-19T02:55:00+00:00",
   "skins": [
     {
       "name": "郁の贴纸年36",
@@ -184,6 +184,13 @@
       "thumb": "郁_贴纸年46.bdi_py_26_light_thumb.png",
       "full": "郁_贴纸年46.bdi_py_26_light_thumb.png",
       "file_id": "51596235"
+    },
+    {
+      "name": "郁の贴纸年47",
+      "file": "郁_贴纸年47.bds",
+      "thumb": "郁_贴纸年47.bds_py_26_light_thumb.png",
+      "full": "郁_贴纸年47.bds_py_26_light_thumb.png",
+      "file_id": "51626707"
     }
   ]
 }
